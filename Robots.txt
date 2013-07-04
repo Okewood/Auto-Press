@@ -1,0 +1,32 @@
+###############################
+#
+# robots.txt file for Auto-Press website 
+#
+# addresses all robots by using wild card *
+#
+User-agent: *
+# list folders robots are not allowed to index
+Disallow: /_mmserverScripts/
+Disallow: /_notes/
+Disallow: /_private/
+Disallow: /_vti_bin/
+Disallow: /_vti_cnf/
+Disallow: /_vti_log/
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+Disallow: /admin/
+Disallow: /Connections/
+Disallow: /design/
+Disallow: /images/
+Disallow: /temp/
+Disallow: /scgi-bin/
+#
+# list specific files robots are not allowed to index
+#
+Disallow: inc_menu.php
+Disallow: inc_thumb.php
+Disallow: inc_title.php
+#
+# End of robots.txt file
+#
+###############################

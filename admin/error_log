@@ -1,0 +1,26 @@
+[06-Jul-2011 04:27:33] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/kdivcms/public_html/admin/functions.php on line 156
+[06-Jul-2011 04:27:33] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/kdivcms/public_html/admin/functions.php on line 158
+[06-Jul-2011 04:27:33] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/kdivcms/public_html/admin/functions.php on line 159
+[06-Jul-2011 04:27:33] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/kdivcms/public_html/admin/functions.php on line 161
+[07-Jul-2011 05:28:39] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 226
+[07-Jul-2011 05:28:39] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 230
+[07-Jul-2011 05:28:39] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/kdivcms/public_html/admin/functions.php on line 234
+[07-Jul-2011 05:28:39] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../temp/Shadow.jpg' is not a valid JPEG file in /home/kdivcms/public_html/admin/functions.php on line 234
+[07-Jul-2011 05:28:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kdivcms/public_html/admin/functions.php:226) in /home/kdivcms/public_html/admin/amend.php on line 87
+[07-Jul-2011 05:29:46] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 226
+[07-Jul-2011 05:29:46] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 230
+[07-Jul-2011 05:29:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/kdivcms/public_html/admin/functions.php on line 234
+[07-Jul-2011 05:29:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../temp/Shadow.php' is not a valid JPEG file in /home/kdivcms/public_html/admin/functions.php on line 234
+[07-Jul-2011 05:29:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kdivcms/public_html/admin/functions.php:226) in /home/kdivcms/public_html/admin/amend.php on line 87
+[07-Jul-2011 05:30:32] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 226
+[07-Jul-2011 05:30:32] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 230
+[07-Jul-2011 05:30:32] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/kdivcms/public_html/admin/functions.php on line 234
+[07-Jul-2011 05:30:32] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../temp/Shadow.jpg' is not a valid JPEG file in /home/kdivcms/public_html/admin/functions.php on line 234
+[07-Jul-2011 05:30:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kdivcms/public_html/admin/functions.php:226) in /home/kdivcms/public_html/admin/amend.php on line 87
+[07-Jul-2011 05:31:31] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 145
+[07-Jul-2011 05:31:31] PHP Warning:  Division by zero in /home/kdivcms/public_html/admin/functions.php on line 149
+[07-Jul-2011 05:31:31] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/kdivcms/public_html/admin/functions.php on line 153
+[07-Jul-2011 05:31:31] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../temp/Shadow.jpg' is not a valid JPEG file in /home/kdivcms/public_html/admin/functions.php on line 153
+[07-Jul-2011 05:31:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kdivcms/public_html/admin/functions.php:145) in /home/kdivcms/public_html/admin/amend.php on line 87
+[17-Jul-2011 19:16:10] PHP Warning:  copy(../images/LM10132.JPG) [<a href='function.copy'>function.copy</a>]: failed to open stream: Permission denied in /home/kdivcms/public_html/admin/functions.php on line 164
+[17-Jul-2011 19:16:56] PHP Warning:  copy(../images/LM10132.JPG) [<a href='function.copy'>function.copy</a>]: failed to open stream: Permission denied in /home/kdivcms/public_html/admin/functions.php on line 164
